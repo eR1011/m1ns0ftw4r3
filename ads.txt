@@ -1,7 +1,7 @@
 [
     {
-        "image": "https://app.minsoftware.vn/uploads/1745055540_1.png",
-        "url": "https://minsoftware.vn/",
+        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/toolmmo.png",
+        "url": "https://www.facebook.com/toolmmovn",
         "timeout": 5
     },
     {
