@@ -1,0 +1,62 @@
+[
+    {
+        "image": "https://app.minsoftware.vn/uploads/1745055540_1.png",
+        "url": "https://minsoftware.vn/",
+        "timeout": 5
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/viaviet74.com.jpg",
+        "url": "https://viaviet74.com/",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/clonevn.net.png",
+        "url": "https://clonevn.net/",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/clone79.com.jpg",
+        "url": "https://clone79.com/?utm_source=maxcare",
+        "timeout": 10
+    },
+    {
+        "image": "https://proxyfb.com/adsmin.jpg",
+        "url": "https://proxyfb.com/minsofware",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/clonengoai.net.png",
+        "url": "https://clonengoai.net/",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/shopclone.vn.jpeg",
+        "url": "http://shopclone.vn/",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/dailyvia.com.jpg",
+        "url": "https://dailyvia.com/",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/viaus2fa.png",
+        "url": "https://viaus2fa.com",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/proxysieutoc.com.jpg",
+        "url": "https://proxysieutoc.com/",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/clonefbig.com.jpg",
+        "url": "https://clonefbig.com/",
+        "timeout": 10
+    },
+    {
+        "image": "https://minsoftware.xyz/bannerAds/shopvia64.com.png",
+        "url": "https://shopvia64.com/",
+        "timeout": 10
+    }
+]
