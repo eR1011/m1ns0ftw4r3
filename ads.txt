@@ -5,8 +5,8 @@
         "timeout": 5
     },
     {
-        "image": "https://minsoftware.xyz/bannerAds/viaviet74.com.jpg",
-        "url": "https://viaviet74.com/",
+        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/toolmmo.png",
+        "url": "https://www.facebook.com/toolmmovn/",
         "timeout": 10
     },
     {
