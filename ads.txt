@@ -15,8 +15,8 @@
         "timeout": 10
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
+        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/tinhtrungpng.png",
+        "url": "https://shopvia64.com/",
         "timeout": 10
     },
     {
