@@ -1,112 +1,110 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://app.minsoftware.vn/uploads/1745055540_1.png",
+        "url": "https://minsoftware.vn/",
+        "timeout": 5,
+        "level": 0
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/viaviet74.com.jpg",
+        "url": "https://viaviet74.com/",
+        "timeout": 10,
+        "level": 1
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/clonevn.net.png",
+        "url": "https://clonevn.net/",
+        "timeout": 10,
+        "level": 1
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/thangclone.com.png",
+        "url": "https://www.thangclone.com/",
+        "timeout": 15,
+        "level": 1
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/cloneads.net.png",
+        "url": "https://cloneads.net/",
+        "timeout": 15,
+        "level": 1
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/regclone.com.jpg",
+        "url": "https://regclone.com/",
+        "timeout": 10,
+        "level": 1
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/clone86.com.jpg",
+        "url": "https://clone86.com",
+        "timeout": 10,
+        "level": 1
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://proxyfb.com/adsmin.jpg",
+        "url": "https://proxyfb.com/minsofware",
+        "timeout": 10,
+        "level": 2
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/pymeta.net.jpg",
+        "url": "https://pymeta.net/",
+        "timeout": 10,
+        "level": 2
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/shopaccfb247.com.jpg",
+        "url": "https://shopaccfb247.com",
+        "timeout": 10,
+        "level": 2
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/clonengoai.net.png",
+        "url": "https://clonengoai.net/",
+        "timeout": 10,
+        "level": 3
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/shopclone.vn.jpeg",
+        "url": "http://shopclone.vn/",
+        "timeout": 10,
+        "level": 3
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/dailyvia.com.jpg",
+        "url": "https://dailyvia.com/",
+        "timeout": 10,
+        "level": 3
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/viaus2fa.png",
+        "url": "https://viaus2fa.com",
+        "timeout": 10,
+        "level": 3
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/proxysieutoc.com.jpg",
+        "url": "https://proxysieutoc.com/",
+        "timeout": 10,
+        "level": 3
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/clonefbig.com.jpg",
+        "url": "https://clonefbig.com/",
+        "timeout": 10,
+        "level": 3
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/shopvia64.com.png",
+        "url": "https://shopvia64.com/",
+        "timeout": 10,
+        "level": 3
     },
     {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
-    },
-    {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
-    },
-    {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
-    },
-    {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10
-    },
-    {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack2.png",
-        "url": "https://www.facebook.com/toolmmovn/",
-        "timeout": 10
+        "image": "https://minsoftware.xyz/bannerAds/cmsnt.co.png",
+        "url": "https://www.cmsnt.co/?utm_source=maxcare",
+        "timeout": 10,
+        "level": 3
     }
 ]
