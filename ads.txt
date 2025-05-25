@@ -1,5 +1,11 @@
 [
     {
+        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
+        "url": "https://www.facebook.com/toolmmovn",
+        "timeout": 5,
+        "level": 1
+    },
+    {
         "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/tinhtrungpng.png",
         "url": "https://shopvia64.com/",
         "timeout": 15,
@@ -10,13 +16,7 @@
         "url": "https://www.facebook.com/toolmmovn",
         "timeout": 10,
         "level": 1
-    },
-    {
-        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/toommocrack1.png",
-        "url": "https://www.facebook.com/toolmmovn",
-        "timeout": 10,
-        "level": 1
-    },
+    },    
     {
         "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/thangclone.com.png",
         "url": "https://www.thangclone.com/",
