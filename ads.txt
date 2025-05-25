@@ -2,7 +2,7 @@
     {
         "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/tinhtrungpng.png",
         "url": "https://shopvia64.com/",
-        "timeout": 5,
+        "timeout": 15,
         "level": 0
     },
     {
