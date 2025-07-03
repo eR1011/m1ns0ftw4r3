@@ -18,6 +18,12 @@
         "level": 0
     },    
     {
+        "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/MetasoftMilkmax.png",
+        "url": "https://www.facebook.com/toolmmovn",
+        "timeout": 10,
+        "level": 0
+    },
+    {
         "image": "https://raw.githubusercontent.com/eR1011/m1ns0ftw4r3/refs/heads/main/pic/thangclone.com.png",
         "url": "https://www.thangclone.com/",
         "timeout": 15,
